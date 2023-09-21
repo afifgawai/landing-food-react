@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/landing-food-react/static/css/main.fef0df35.css",
-    "main.js": "/landing-food-react/static/js/main.81ae83f4.js",
+    "main.js": "/landing-food-react/static/js/main.ab6cd7c8.js",
     "static/media/2.png": "/landing-food-react/static/media/2.ed9e35a4b5512065f5b2.png",
     "static/media/4.png": "/landing-food-react/static/media/4.f20a50d0cec4824f75fb.png",
     "static/media/6.png": "/landing-food-react/static/media/6.beb148178731c7617235.png",
@@ -14,10 +14,10 @@
     "static/media/logo.png": "/landing-food-react/static/media/logo.893684faba0e50b1771f.png",
     "index.html": "/landing-food-react/index.html",
     "main.fef0df35.css.map": "/landing-food-react/static/css/main.fef0df35.css.map",
-    "main.81ae83f4.js.map": "/landing-food-react/static/js/main.81ae83f4.js.map"
+    "main.ab6cd7c8.js.map": "/landing-food-react/static/js/main.ab6cd7c8.js.map"
   },
   "entrypoints": [
     "static/css/main.fef0df35.css",
-    "static/js/main.81ae83f4.js"
+    "static/js/main.ab6cd7c8.js"
   ]
 }
