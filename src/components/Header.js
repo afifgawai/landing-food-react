@@ -27,7 +27,7 @@ const Header = () => {
           </div>
         </div>
         <div className="col-12 col-md-3 mt-4 mt-md-0 text-center">
-          <Link to="/">
+          <Link to="/landing-food-react">
           <span className="ml-3 mx-3" id="cart">HOME</span>
 
           </Link>
