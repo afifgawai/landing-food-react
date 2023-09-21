@@ -16,7 +16,7 @@ const App = () => {
     <Router><div className="App">
 
     <Routes>
-      <Route path="/landing-food-react" element={<LandingPage />} />
+      <Route path="https://afifgawai.github.io/landing-food-react/" element={<LandingPage />} />
       <Route path="/" element={<LandingPage />} exact />
       <Route path="/services" element={<Services/>}/>
       <Route path="/contact" element={<Contact/>}/>
