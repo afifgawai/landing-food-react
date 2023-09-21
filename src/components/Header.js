@@ -7,7 +7,7 @@ const Header = () => {
     <>
       <nav className="navbar row sticky-top">
         <div className="col-12 col-md-3">
-          <Link to="/"><img src={logo} alt="logo" className="logo" /></Link>
+          <Link to="/landing-food-react"><img src={logo} alt="logo" className="logo" /></Link>
           
         </div>
 
